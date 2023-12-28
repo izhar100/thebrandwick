@@ -1,1 +1,1 @@
-export const api="http://localhost:8000/user"
+export const api="https://thebrandwick-j90k.onrender.com/user"
